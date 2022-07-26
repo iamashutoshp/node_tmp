@@ -1,0 +1,8 @@
+.App {
+  display: flex;
+  justify-content: center;
+}
+
+.app_buttons button{ 
+  margin: 1rem;
+}
